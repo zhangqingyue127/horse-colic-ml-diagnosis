@@ -1,6 +1,6 @@
 # Horse Colic Diagnosis with Machine Learning
 
-A portfolio-ready reconstruction of my **Machine Learning course final project** from the **spring semester of sophomore year** at **Southwestern University of Finance and Economics**.
+A portfolio-ready reconstruction of my **Machine Learning course final project** from the **spring semester of sophomore year** .
 
 This project studies a classic veterinary diagnosis task: predicting horse colic outcomes from clinical indicators using supervised machine learning. The original coursework compared **Logistic Regression**, **Random Forest**, and **AdaBoost**, then performed model tuning and result analysis.
 
